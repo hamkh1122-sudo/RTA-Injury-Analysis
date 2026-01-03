@@ -1,0 +1,7 @@
+{
+  "name": "TraumaPredict AI - DI Khan ED",
+  "description": "An advanced clinical decision support tool for the Dera Ismail Khan Hospital emergency department. It uses physics and biomechanical analysis to predict injury patterns in road traffic accident victims based on crash parameters.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
